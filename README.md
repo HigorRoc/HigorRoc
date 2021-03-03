@@ -2,11 +2,11 @@
 
 Meu nome é Higor Rocha, 
 
-Atualmente no Departamento Technology and Opperations no Itaú Unibanco
-Estudante de Sistemas de Informação na Uninove 
+* Atualmente no Departamento Technology and Opperations no Itaú Unibanco
+* Estudante de Sistemas de Informação na Uninove 
 
-C: (11) 9.4314-7729
-E: rochahigor05@gmail.com
+* C: (11) 9.4314-7729
+* E: rochahigor05@gmail.com
 L: 
 S:
 

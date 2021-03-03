@@ -4,8 +4,8 @@ Meu nome é Higor Rocha, atualmente no Departamento Technology and Opperations n
 
 - 📞 (11) 9.4314-7729
 - 📩 rochahigor05@gmail.com
-- 🔹 [Linkedln](https://www.linkedin.com/in/higor-silva18/)
-- 🔹 
+- 🔹 [Linkedln (clique aqui)](https://www.linkedin.com/in/higor-silva18/)
+- 🔹 [Skype (clique aqui)](https://join.skype.com/invite/AbNH8o8fxoUj)
 
 <!--
 **HigorRoc/HigorRoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

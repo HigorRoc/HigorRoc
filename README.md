@@ -1,7 +1,7 @@
 ### Olá pessoal, sejam bem vindos ao meu Github! 🤙
 
 Meu nome é Higor Rocha, atualmente no Departamento Technology and Opperations no Itaú Unibanco e Estudante de Sistemas de Informação na Uninove.
-Sou iniciante neste mundo Dev e espero poder ajudar e também receber ajuda de todos nessa comunidade!
+Sou iniciante neste mundo Dev e espero poder ajudar e também receber ajuda de todos nessa comunidade!!
 
 #### Breves Conhecimentos: HTML | CSS | JAVASCRIPT | JAVA | SQL
 

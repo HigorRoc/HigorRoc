@@ -1,4 +1,14 @@
-### Hi there 👋
+### Olá pessoal, sejam bem vindos ao meu Github! 🤙
+
+Meu nome é Higor Rocha, 
+
+Atualmente no Departamento Technology and Opperations no Itaú Unibanco
+Estudante de Sistemas de Informação na Uninove 
+
+C: (11) 9.4314-7729
+E: rochahigor05@gmail.com
+L: 
+S:
 
 <!--
 **HigorRoc/HigorRoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -28,14 +28,14 @@ Conhecimentos em Manutenção de micros, Sistemas Operacionais, Microsoft Office
 
 # Experiências
 
-### Claro Brasil
+### Claro Brasil 🔴
 
 Primeira experiência no Mercado de Trabalho. 
 
-### Seno Tecnologia da Informação
+### Seno Tecnologia da Informação 🔵
 
 Segunda experiência no Mercado de Trabalho.
 
-### Itaú Unibanco 
+### Itaú Unibanco 🟠
 
 Terceira experiência no Mercado de Trabalho.

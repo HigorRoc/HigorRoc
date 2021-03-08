@@ -48,15 +48,12 @@ Conhecimentos em Manutenção de micros, Sistemas Operacionais, Microsoft Office
 # Experiências
 
 ### Claro Brasil 🔴
-
-Primeira experiência no Mercado de Trabalho. 
+Jovem Aprendiz Administrativo
 
 ### Seno Tecnologia da Informação 🔵
-
-Segunda experiência no Mercado de Trabalho.
+Commecial Intern | Commercial Assistant
 
 ### Itaú Unibanco 🟠
-
-Terceira experiência no Mercado de Trabalho.
+Technology and Operation
 
 ---

@@ -28,10 +28,10 @@ Conhecimentos em Manutenção de micros, Sistemas Operacionais, Microsoft Office
 
 # Experiências
 
-<img src="https://github.com/HigorRoc/HigorRoc/blob/main/Logo_Claro-removebg-preview.ico" width="20" height="20"> ### Claro Brasil 
+<img src="https://github.com/HigorRoc/HigorRoc/blob/main/Logo_Claro-removebg-preview.ico" width="20" height="20"> Claro Brasil 
 
-<img src="https://github.com/HigorRoc/HigorRoc/blob/main/Logo_Seno-removebg-preview.ico" width="20" height="20"> ### Seno Tecnologia da Informação
+<img src="https://github.com/HigorRoc/HigorRoc/blob/main/Logo_Seno-removebg-preview.ico" width="20" height="20"> Seno Tecnologia da Informação
 
-<img src="https://github.com/HigorRoc/HigorRoc/blob/main/Logo-Itau.ico" width="20" height="20"> ### Itaú Unibanco 
+<img src="https://github.com/HigorRoc/HigorRoc/blob/main/Logo-Itau.ico" width="20" height="20"> Itaú Unibanco 
 
 

@@ -26,6 +26,16 @@ Conhecimentos em Manutenção de micros, Sistemas Operacionais, Microsoft Office
 
 ---
 
+# Certificações
+
+### Certiprof - Scrum Foundation Professional Certificate (SFPC) [(Clique aqui)](https://www.youracclaim.com/badges/f7b3b52a-33a7-4534-a68c-97191a14aa5a/public_url)
+
+### Certiprof - Kanban Foundation Certificate KIKF™ [(Clique aqui)](https://www.youracclaim.com/badges/f7b3b52a-33a7-4534-a68c-97191a14aa5a/public_url)
+
+### 
+
+---
+
 # Experiências
 
 ### Claro Brasil 🔴
@@ -39,3 +49,5 @@ Segunda experiência no Mercado de Trabalho.
 ### Itaú Unibanco 🟠
 
 Terceira experiência no Mercado de Trabalho.
+
+---

@@ -1,11 +1,13 @@
-# Higor Rocha Fernandes da Silva
+<img src="https://github.com/HigorRoc/HigorRoc/blob/main/Logos.png" width="550" height="100">
 
+# Higor Rocha Fernandes da Silva
+ 
 ### Olá pessoal, sejam bem vindos ao meu Github! :wave:
 
 Meu nome é Higor Rocha, atualmente no Departamento Technology and Opperations no Itaú Unibanco e Estudante de Sistemas de Informação na Uninove.
 Sou iniciante neste mundo Dev e espero poder ajudar e também receber ajuda de todos nessa comunidade!!
 
-#### Breves Conhecimentos: HTML | CSS | JAVASCRIPT | JAVA | SQL | C/C++
+#### Breves Conhecimentos: HTML | CSS | JAVASCRIPT | JAVA | C/C++ | ORACLE SQL
 
 - 📞 Whatsapp [(clique aqui)](https://api.whatsapp.com/send?1=pt_BR&phone=5511943147729)
 - 📩 Email [(clique aqui)](rochahigor05@gmail.com)

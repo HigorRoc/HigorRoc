@@ -28,10 +28,14 @@ Conhecimentos em Manutenção de micros, Sistemas Operacionais, Microsoft Office
 
 # Experiências
 
-<img src="https://github.com/HigorRoc/HigorRoc/blob/main/Logo_Claro-removebg-preview.ico" width="20" height="20"> Claro Brasil 
+### Claro Brasil
 
-<img src="https://github.com/HigorRoc/HigorRoc/blob/main/Logo_Seno-removebg-preview.ico" width="20" height="20"> Seno Tecnologia da Informação
+Primeira experiência no Mercado de Trabalho. 
 
-<img src="https://github.com/HigorRoc/HigorRoc/blob/main/Logo-Itau.ico" width="20" height="20">  Itaú Unibanco 
+### Seno Tecnologia da Informação
 
+Segunda experiência no Mercado de Trabalho.
 
+### Itaú Unibanco 
+
+Terceira experiência no Mercado de Trabalho.

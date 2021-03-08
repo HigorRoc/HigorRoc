@@ -24,4 +24,14 @@ Cursando Sistemas da Informação (Uninove - Semestre 5/8), onde foram abordados
 
 Conhecimentos em Manutenção de micros, Sistemas Operacionais, Microsoft Office (Excel), Lógica de Programação, HTML/CSS/Javascript.
 
+---
+
+# Experiências
+
+### Claro Brasil :small_red_diamond:
+
+### Seno Tecnologia da Informação :small_blue_diamond:
+
+### Itaú Unibanco :small_orange_diamond:
+
 

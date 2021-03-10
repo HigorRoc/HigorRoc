@@ -46,16 +46,3 @@ Conhecimentos em Manutenção de micros, Sistemas Operacionais, Microsoft Office
 #### DIO | Introdução ao Git e Controle de Versões [(Clique aqui)](https://certificates.digitalinnovation.one/7FA95FFB)
 
 ---
-
-# Experiências
-
-### Claro Brasil 🔴
-Jovem Aprendiz Administrativo
-
-### Seno Tecnologia da Informação 🔵
-Commecial Intern | Commercial Assistant
-
-### Itaú Unibanco 🟠
-Technology and Operation
-
----

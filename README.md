@@ -17,14 +17,11 @@ Sou iniciante neste mundo Dev e espero poder ajudar e também receber ajuda de t
 
 ---
 
-# Ensino Superior 
+### 📈  Estatísticas Gerais 
+[![Higor GitHub Stats](https://github-readme-stats.vercel.app/api?username=HigorRoc&theme=cobalt&show_icons=true)](https://github.com/HigorRoc/github-readme-stats)
 
-
-### Sistemas de Informação :computer:
-
-Cursando Sistemas da Informação (Uninove - Semestre 5/8), onde foram abordados diversos temas, porém os principais e colocados em prática foram: Metodologia Tradicional, Metodologia Ágil (Scrum), Lógica de Programação, Algumas linguagens (HTML, JavaScript, Java, C/C++), Redes de Computadores, Segurança da Informação, entre outros.
-
-Conhecimentos em Manutenção de micros, Sistemas Operacionais, Microsoft Office (Excel), Lógica de Programação, HTML/CSS/Javascript.
+### :triangular_flag_on_post:  Linguagens utilizadas 
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HigorRoc&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
 
 ---
 
@@ -37,6 +34,7 @@ Conhecimentos em Manutenção de micros, Sistemas Operacionais, Microsoft Office
 
 - Tableau | Tableau Partner Sales Accreditation (TPN)
 - Tableau | Tableau Customer Success Accredtation (TPN)
+
 
 - Brains | White Belt Lean Six Sigma
 

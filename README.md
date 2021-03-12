@@ -22,13 +22,13 @@ Sou iniciante neste mundo Dev e espero poder ajudar e também receber ajuda de t
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HigorRoc&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
 
 ### :heavy_check_mark: Certificações
-- Certiprof | Scrum Foundation Professional Certificate (SFPC) [(Clique aqui)](https://www.youracclaim.com/badges/f7b3b52a-33a7-4534-a68c-97191a14aa5a/public_url)
-- Certiprof | Kanban Foundation Certificate KIKF™ [(Clique aqui)](https://www.youracclaim.com/badges/f7b3b52a-33a7-4534-a68c-97191a14aa5a/public_url)
-- Amazon | AWS Technical Professional (APN)
-- Tableau | Tableau Partner Sales Accreditation (TPN)
-- Tableau | Tableau Customer Success Accredtation (TPN)
-- Brains | White Belt Lean Six Sigma
-- DIO | Lógica de Programação Essencial [(Clique aqui)](https://certificates.digitalinnovation.one/86F884A6)
-- DIO | Programação Inicial HTML5/CSS3 [(Clique aqui)](https://certificates.digitalinnovation.one/80BFA50D)
-- DIO | Programação com Bootstrap [(Clique aqui)](https://certificates.digitalinnovation.one/F4F62EC1)
-- DIO | Introdução ao Git e Controle de Versões [(Clique aqui)](https://certificates.digitalinnovation.one/7FA95FFB)
+- **Certiprof** | Scrum Foundation Professional Certificate (SFPC) [(Clique aqui)](https://www.youracclaim.com/badges/f7b3b52a-33a7-4534-a68c-97191a14aa5a/public_url)
+- **Certiprof** | Kanban Foundation Certificate KIKF™ [(Clique aqui)](https://www.youracclaim.com/badges/f7b3b52a-33a7-4534-a68c-97191a14aa5a/public_url)
+- **Amazon** | AWS Technical Professional (APN)
+- **Tableau** | Tableau Partner Sales Accreditation (TPN)
+- **Tableau** | Tableau Customer Success Accredtation (TPN)
+- **Brains** | White Belt Lean Six Sigma
+- **DIO** | Lógica de Programação Essencial [(Clique aqui)](https://certificates.digitalinnovation.one/86F884A6)
+- **DIO** | Programação Inicial HTML5/CSS3 [(Clique aqui)](https://certificates.digitalinnovation.one/80BFA50D)
+- **DIO** | Programação com Bootstrap [(Clique aqui)](https://certificates.digitalinnovation.one/F4F62EC1)
+- **DIO** | Introdução ao Git e Controle de Versões [(Clique aqui)](https://certificates.digitalinnovation.one/7FA95FFB)

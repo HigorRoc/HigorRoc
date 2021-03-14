@@ -14,10 +14,10 @@ Sou iniciante neste mundo Dev e espero poder ajudar e também receber ajuda de t
 ---
 
 ### 📈  Estatísticas Gerais 
-![Higor GitHub Stats](https://github-readme-stats.vercel.app/api?username=HigorRoc&show_icons=true)
+![Higor GitHub Stats](https://github-readme-stats.vercel.app/api?username=HigorRoc&show_icons=true&theme=radical)
 
 ### :triangular_flag_on_post:  Linguagens utilizadas 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HigorRoc&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HigorRoc&hide=scss&layout=compact&theme=radical)
 
 ### :heavy_check_mark: Certificações
 - **Certiprof** |  Scrum Foundation Professional Certificate (SFPC) [(Clique aqui)](https://www.youracclaim.com/badges/f7b3b52a-33a7-4534-a68c-97191a14aa5a/public_url)

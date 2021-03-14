@@ -5,11 +5,12 @@
 Atualmente no Departamento Technology and Opperations no Itaú Unibanco e Estudante de Sistemas de Informação na Uninove.
 Sou iniciante neste mundo Dev e espero poder ajudar e também receber ajuda de todos nessa comunidade!!
 
-- ![Whatsapp](https://img.shields.io/badge/-WhatsApp-25D366?&logo=WhatsApp&logoColor=FFFFFF) [(clique aqui)](https://api.whatsapp.com/send?1=pt_BR&phone=5511943147729)
-- ![Gmail](https://img.shields.io/badge/-Gmail-EA4335?&logo=Gmail&logoColor=FFFFFF) [(clique aqui)](rochahigor05@gmail.com)
-- ![Linkedin](https://img.shields.io/badge/-Linkedln-0A66C2?&logo=Linkedin&logoColor=FFFFFF) [(clique aqui)](https://www.linkedin.com/in/higor-silva18/)
-- ![Skype](https://img.shields.io/badge/-Skype-00AFF0?&logo=Skype&logoColor=FFFFFF) [(clique aqui)](https://join.skype.com/invite/AbNH8o8fxoUj)
-- ![Instagram](https://img.shields.io/badge/-Instagram-E4405F?&logo=Instagram&logoColor=FFFFFF) [(clique aqui)](https://instagram.com/hiigorrocha_)
+### :telephone_receiver: Contact Me
+- [![Whatsapp](https://img.shields.io/badge/-WhatsApp-25D366?&logo=WhatsApp&logoColor=FFFFFF)](https://api.whatsapp.com/send?1=pt_BR&phone=5511943147729)
+- [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?&logo=Gmail&logoColor=FFFFFF)](rochahigor05@gmail.com)
+- [![Linkedin](https://img.shields.io/badge/-Linkedln-0A66C2?&logo=Linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/higor-silva18/)
+- [![Skype](https://img.shields.io/badge/-Skype-00AFF0?&logo=Skype&logoColor=FFFFFF)](https://join.skype.com/invite/AbNH8o8fxoUj)
+- [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?&logo=Instagram&logoColor=FFFFFF)](https://instagram.com/hiigorrocha_)
 
 ---
 
@@ -19,6 +20,8 @@ Sou iniciante neste mundo Dev e espero poder ajudar e também receber ajuda de t
 ### :triangular_flag_on_post:  Linguagens Utilizadas
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HigorRoc&hide=scss&layout=compact&theme=radical)
 
+---
+
 ### :heavy_check_mark: Tools
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?&logo=Windows&logoColor=FFFFFF) 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?&logo=Linux&logoColor=FFFFFF) 
@@ -27,6 +30,7 @@ Sou iniciante neste mundo Dev e espero poder ajudar e também receber ajuda de t
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?&logo=Visual%20Studio%20Code&logoColor=FFFFFF) 
 ![Eclipse IDE](https://img.shields.io/badge/-NetBeans%20IDE-1B6AC6?&logo=Apache%20NetBeans%20IDE&logoColor=FFFFFF) 
 ![Eclipse IDE](https://img.shields.io/badge/-Eclipse%20IDE-2C2255?&logo=Eclipse%20IDE&logoColor=FFFFFF) 
+![Trello](https://img.shields.io/badge/-Trello-0079BF?&logo=Trello&logoColor=FFFFFF) 
 
 ### :heavy_check_mark: Languages
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=FFFFFF)

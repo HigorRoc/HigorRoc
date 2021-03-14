@@ -20,7 +20,7 @@ Sou iniciante neste mundo Dev e espero poder ajudar e também receber ajuda de t
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HigorRoc&hide=scss&layout=compact&theme=radical)
 
 ### :heavy_check_mark: Conhecimentos: Ferramentas
-- ![Windows](https://img.shields.io/badge/-Windows-0078D6?&logo=Windows&logoColor=FFFFFF) 
+![Windows](https://img.shields.io/badge/-Windows-0078D6?&logo=Windows&logoColor=FFFFFF) 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?&logo=Linux&logoColor=FFFFFF) 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF) 
 ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF)
@@ -29,7 +29,7 @@ Sou iniciante neste mundo Dev e espero poder ajudar e também receber ajuda de t
 ![Eclipse IDE](https://img.shields.io/badge/-Eclipse%20IDE-2C2255?&logo=Eclipse%20IDE&logoColor=FFFFFF) 
 
 ### :heavy_check_mark: Conhecimento: Linguagens
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=FFFFFF)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=FFFFFF)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&logo=CSS3&logoColor=FFFFFF)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=JavaScript&logoColor=FFFFFF)
 ![Java](https://img.shields.io/badge/-Java-007396?&logo=Java&logoColor=FFFFFF)

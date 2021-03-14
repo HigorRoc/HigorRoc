@@ -1,6 +1,4 @@
-<img src="https://github.com/HigorRoc/HigorRoc/blob/main/Logos.png" width="550" height="100">
-
-## Higor Rocha Fernandes da Silva
+## Hi, I'm Higor Rocha Fernandes da Silva
  
 ### Olá pessoal, sejam bem vindos ao meu Github! :wave:
 
@@ -16,7 +14,7 @@ Sou iniciante neste mundo Dev e espero poder ajudar e também receber ajuda de t
 ---
 
 ### 📈  Estatísticas Gerais 
-[![Higor GitHub Stats](https://github-readme-stats.vercel.app/api?username=HigorRoc&theme=cobalt&show_icons=true)](https://github.com/HigorRoc/github-readme-stats)
+![Higor GitHub Stats](https://github-readme-stats.vercel.app/api?username=HigorRoc&show_icons=true)
 
 ### :triangular_flag_on_post:  Linguagens utilizadas 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HigorRoc&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
@@ -32,3 +30,8 @@ Sou iniciante neste mundo Dev e espero poder ajudar e também receber ajuda de t
 - **DIO** | Programação Inicial HTML5/CSS3 [(Clique aqui)](https://certificates.digitalinnovation.one/80BFA50D)
 - **DIO** | Programação com Bootstrap [(Clique aqui)](https://certificates.digitalinnovation.one/F4F62EC1)
 - **DIO** | Introdução ao Git e Controle de Versões [(Clique aqui)](https://certificates.digitalinnovation.one/7FA95FFB)
+
+---
+
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/higor-silva18/)](https://www.linkedin.com/in/higor-silva18/) 
+[![Linkedin Badge](https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?1=pt_BR&phone=5511943147729)](https://api.whatsapp.com/send?1=pt_BR&phone=5511943147729)

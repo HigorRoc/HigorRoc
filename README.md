@@ -1,6 +1,6 @@
 ## Hi, I'm Higor Rocha Fernandes da Silva
  
-### Sejam bem vindos ao meu Github! :wave:
+### Sejam bem vindos ao meu GitHub! :wave:
 
 Atualmente no Departamento Technology and Opperations no Itaú Unibanco e Estudante de Sistemas de Informação na Uninove.
 Sou iniciante neste mundo Dev e espero poder ajudar e também receber ajuda de todos nessa comunidade!!

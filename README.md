@@ -1,8 +1,8 @@
 ## Hi, I'm Higor Rocha Fernandes da Silva
  
-### Olá pessoal, sejam bem vindos ao meu Github! :wave:
+### Sejam bem vindos ao meu Github! :wave:
 
-Meu nome é Higor Rocha, atualmente no Departamento Technology and Opperations no Itaú Unibanco e Estudante de Sistemas de Informação na Uninove.
+Atualmente no Departamento Technology and Opperations no Itaú Unibanco e Estudante de Sistemas de Informação na Uninove.
 Sou iniciante neste mundo Dev e espero poder ajudar e também receber ajuda de todos nessa comunidade!!
 
 - 📞 Whatsapp [(clique aqui)](https://api.whatsapp.com/send?1=pt_BR&phone=5511943147729)
@@ -16,7 +16,7 @@ Sou iniciante neste mundo Dev e espero poder ajudar e também receber ajuda de t
 ### 📈  Estatísticas Gerais 
 ![Higor GitHub Stats](https://github-readme-stats.vercel.app/api?username=HigorRoc&show_icons=true&theme=radical)
 
-### :triangular_flag_on_post:  Linguagens utilizadas 
+### :triangular_flag_on_post:  Languages
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HigorRoc&hide=scss&layout=compact&theme=radical)
 
 ### :heavy_check_mark: Certificações

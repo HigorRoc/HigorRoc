@@ -5,11 +5,11 @@
 Atualmente no Departamento Technology and Opperations no Itaú Unibanco e Estudante de Sistemas de Informação na Uninove.
 Sou iniciante neste mundo Dev e espero poder ajudar e também receber ajuda de todos nessa comunidade!!
 
-- 📞 Whatsapp [(clique aqui)](https://api.whatsapp.com/send?1=pt_BR&phone=5511943147729)
-- 📩 Email [(clique aqui)](rochahigor05@gmail.com)
-- 🔎 Linkedln [(clique aqui)](https://www.linkedin.com/in/higor-silva18/)
-- 🌐 Skype [(clique aqui)](https://join.skype.com/invite/AbNH8o8fxoUj)
-- 📸 Instagram [(clique aqui)](https://instagram.com/hiigorrocha_)
+- ![Whatsapp](https://img.shields.io/badge/-WhatsApp-25D366?&logo=WhatsApp&logoColor=FFFFFF) [(clique aqui)](https://api.whatsapp.com/send?1=pt_BR&phone=5511943147729)
+- ![Gmail](https://img.shields.io/badge/-Gmail-EA4335?&logo=Gmail&logoColor=FFFFFF) [(clique aqui)](rochahigor05@gmail.com)
+- ![Linkedin](https://img.shields.io/badge/-Linkedln-0A66C2?&logo=Linkedin&logoColor=FFFFFF) [(clique aqui)](https://www.linkedin.com/in/higor-silva18/)
+- ![Skype](https://img.shields.io/badge/-Skype-00AFF0?&logo=Skype&logoColor=FFFFFF) [(clique aqui)](https://join.skype.com/invite/AbNH8o8fxoUj)
+- ![Instagram](https://img.shields.io/badge/-Instagram-E4405F?&logo=Instagram&logoColor=FFFFFF) [(clique aqui)](https://instagram.com/hiigorrocha_)
 
 ---
 
@@ -51,6 +51,3 @@ Sou iniciante neste mundo Dev e espero poder ajudar e também receber ajuda de t
 ![Visio](https://img.shields.io/badge/-MS%20Visio-3955A3?&logo=Microsoft%20Visio&logoColor=FFFFFF)
 
 ---
-
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/higor-silva18/)](https://www.linkedin.com/in/higor-silva18/) 
-[![Linkedin Badge](https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?1=pt_BR&phone=5511943147729)](https://api.whatsapp.com/send?1=pt_BR&phone=5511943147729)

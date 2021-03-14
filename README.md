@@ -16,7 +16,7 @@ Sou iniciante neste mundo Dev e espero poder ajudar e também receber ajuda de t
 ### 📈  Estatísticas Gerais 
 ![Higor GitHub Stats](https://github-readme-stats.vercel.app/api?username=HigorRoc&show_icons=true&theme=radical)
 
-### :triangular_flag_on_post:  Languages
+### :triangular_flag_on_post:  Linguagens Utilizadas
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HigorRoc&hide=scss&layout=compact&theme=radical)
 
 ### :heavy_check_mark: Certificações

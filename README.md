@@ -27,16 +27,15 @@ Sou iniciante neste mundo Dev e espero poder ajudar e também receber ajuda de t
 ![Eclipse IDE](https://img.shields.io/badge/-Eclipse%20IDE-2C2255?&logo=Eclipse%20IDE&logoColor=FFFFFF)&nbsp; 
 ![Trello](https://img.shields.io/badge/-Trello-0079BF?&logo=Trello&logoColor=FFFFFF)&nbsp; 
 
-
-### 🌐 Databases
+#### 🌐 Databases
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?&logo=Oracle&logoColor=FFFFFF)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&logo=MySQL&logoColor=FFFFFF)&nbsp;
 
-### 📊 Business Intelligence
+#### 📊 Business Intelligence
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?&logo=Tableau&logoColor=FFFFFF)&nbsp;
 ![PowerBI](https://img.shields.io/badge/-Power%20BI-F2C811?&logo=Power%20BI&logoColor=FFFFFF)&nbsp;
 
-### 📚 Microsoft Office
+#### 📚 Microsoft Office
 ![Word](https://img.shields.io/badge/-MS%20Word-2B579A?&logo=Microsoft%20Word&logoColor=FFFFFF)&nbsp;
 ![Excel](https://img.shields.io/badge/-MS%20Excel-217346?&logo=Microsoft%20Excel&logoColor=FFFFFF)&nbsp;
 ![PowerPoint](https://img.shields.io/badge/-MS%20PowerPoint-B7472A?&logo=Microsoft%20PowerPoint&logoColor=FFFFFF)&nbsp;
@@ -52,6 +51,8 @@ Sou iniciante neste mundo Dev e espero poder ajudar e também receber ajuda de t
 ---
 
 ### :telephone_receiver: Let's Connect?
+Entre em contato comigo em um dos meios de contato abaixo:
+
 [![Gmail](https://img.shields.io/badge/-rochahigor05@gmail.com-EA4335?&logo=Gmail&logoColor=FFFFFF)](rochahigor05@gmail.com)&nbsp;
 [![Linkedin](https://img.shields.io/badge/-Linkedln-0A66C2?&logo=Linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/higor-silva18/)&nbsp;
 [![Whatsapp](https://img.shields.io/badge/-(11)943147729-25D366?&logo=WhatsApp&logoColor=FFFFFF)](https://api.whatsapp.com/send?1=pt_BR&phone=5511943147729)&nbsp;

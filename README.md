@@ -2,7 +2,7 @@
 
 ## Hi, I'm Higor Rocha Fernandes da Silva
  
-### Welcome to my GitHub! :wave:
+### Welcome to my GitHub! 🤝
 I'm a beginner in this Developer world, I hope to help and also receive help from everyone in this community!!
 
 📌 20 years old;

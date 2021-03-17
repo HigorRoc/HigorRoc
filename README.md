@@ -9,13 +9,6 @@ Sou iniciante neste mundo Dev e espero poder ajudar e também receber ajuda de t
 
 ---
 
-### 📈  Analytics
-![Higor GitHub Stats](https://github-readme-stats.vercel.app/api?username=HigorRoc&show_icons=true&theme=radical)
-
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HigorRoc&hide=scss&layout=compact&theme=radical)
-
----
-
 ### 🛠 Languages & Tools 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=FFFFFF)&nbsp;
@@ -35,19 +28,26 @@ Sou iniciante neste mundo Dev e espero poder ajudar e também receber ajuda de t
 ![Trello](https://img.shields.io/badge/-Trello-0079BF?&logo=Trello&logoColor=FFFFFF)&nbsp; 
 
 
-### :heavy_check_mark: Databases
+### 🌐 Databases
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?&logo=Oracle&logoColor=FFFFFF)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&logo=MySQL&logoColor=FFFFFF)&nbsp;
 
-### :heavy_check_mark: Business Intelligence
+### 📊 Business Intelligence
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?&logo=Tableau&logoColor=FFFFFF)&nbsp;
 ![PowerBI](https://img.shields.io/badge/-Power%20BI-F2C811?&logo=Power%20BI&logoColor=FFFFFF)&nbsp;
 
-### :heavy_check_mark: Microsoft Office
+### 📚 Microsoft Office
 ![Word](https://img.shields.io/badge/-MS%20Word-2B579A?&logo=Microsoft%20Word&logoColor=FFFFFF)&nbsp;
 ![Excel](https://img.shields.io/badge/-MS%20Excel-217346?&logo=Microsoft%20Excel&logoColor=FFFFFF)&nbsp;
 ![PowerPoint](https://img.shields.io/badge/-MS%20PowerPoint-B7472A?&logo=Microsoft%20PowerPoint&logoColor=FFFFFF)&nbsp;
 ![Visio](https://img.shields.io/badge/-MS%20Visio-3955A3?&logo=Microsoft%20Visio&logoColor=FFFFFF)&nbsp;
+
+---
+
+### 📈  Analytics
+![Higor GitHub Stats](https://github-readme-stats.vercel.app/api?username=HigorRoc&show_icons=true&theme=radical)
+
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HigorRoc&hide=scss&layout=compact&theme=radical)
 
 ---
 

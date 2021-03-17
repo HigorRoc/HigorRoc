@@ -8,7 +8,7 @@ Sou iniciante neste mundo Dev e espero poder ajudar e também receber ajuda de t
 
 ---
 
-### 🛠 Languages
+### 🛠 Languages & Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?&logo=HTML5&logoColor=FFFFFF)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?&logo=CSS3&logoColor=FFFFFF)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?&logo=JavaScript&logoColor=FFFFFF)&nbsp;
@@ -16,7 +16,11 @@ Sou iniciante neste mundo Dev e espero poder ajudar e também receber ajuda de t
 ![C](https://img.shields.io/badge/-C-05122A?&logo=C&logoColor=FFFFFF)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?&logo=C++&logoColor=FFFFFF)&nbsp;
 
-### 🛠 Tools
+![Oracle](https://img.shields.io/badge/-Oracle-05122A?&logo=Oracle&logoColor=FFFFFF)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?&logo=MySQL&logoColor=FFFFFF)&nbsp;
+![Tableau](https://img.shields.io/badge/-Tableau-05122A?&logo=Tableau&logoColor=FFFFFF)&nbsp;
+![PowerBI](https://img.shields.io/badge/-Power%20BI-05122A?&logo=Power%20BI&logoColor=FFFFFF)&nbsp;
+
 ![Windows](https://img.shields.io/badge/-Windows-05122A?&logo=Windows&logoColor=FFFFFF)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?&logo=Linux&logoColor=FFFFFF)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?&logo=GitHub&logoColor=FFFFFF)&nbsp;
@@ -25,20 +29,6 @@ Sou iniciante neste mundo Dev e espero poder ajudar e também receber ajuda de t
 ![Eclipse IDE](https://img.shields.io/badge/-NetBeans%20IDE-05122A?&logo=Apache%20NetBeans%20IDE&logoColor=FFFFFF)&nbsp; 
 ![Eclipse IDE](https://img.shields.io/badge/-Eclipse%20IDE-05122A?&logo=Eclipse%20IDE&logoColor=FFFFFF)&nbsp; 
 ![Trello](https://img.shields.io/badge/-Trello-05122A?&logo=Trello&logoColor=FFFFFF)&nbsp; 
-
-### 🛠 Databases
-![Oracle](https://img.shields.io/badge/-Oracle-05122A?&logo=Oracle&logoColor=FFFFFF)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?&logo=MySQL&logoColor=FFFFFF)&nbsp;
-
-### 🛠 Business Intelligence
-![Tableau](https://img.shields.io/badge/-Tableau-05122A?&logo=Tableau&logoColor=FFFFFF)&nbsp;
-![PowerBI](https://img.shields.io/badge/-Power%20BI-05122A?&logo=Power%20BI&logoColor=FFFFFF)&nbsp;
-
-### 🛠 Microsoft Office
-![Word](https://img.shields.io/badge/-MS%20Word-05122A?&logo=Microsoft%20Word&logoColor=FFFFFF)&nbsp;
-![Excel](https://img.shields.io/badge/-MS%20Excel-05122A?&logo=Microsoft%20Excel&logoColor=FFFFFF)&nbsp;
-![PowerPoint](https://img.shields.io/badge/-MS%20PowerPoint-05122A?&logo=Microsoft%20PowerPoint&logoColor=FFFFFF)&nbsp;
-![Visio](https://img.shields.io/badge/-MS%20Visio-05122A?&logo=Microsoft%20Visio&logoColor=FFFFFF)&nbsp;
 
 ---
 

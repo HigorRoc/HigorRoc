@@ -42,7 +42,7 @@ Sou iniciante neste mundo Dev e espero poder ajudar e também receber ajuda de t
 ### 📞 Let's Connect?
 Precisa de ajuda com algum assunto específico? Entre em contato comigo em um dos meios de contato abaixo:
 
-[![Gmail](https://img.shields.io/badge/-rochahigor05@gmail.com-EA4335?&logo=Gmail&logoColor=FFFFFF)](rochahigor05@gmail.com)&nbsp;
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?&logo=Gmail&logoColor=FFFFFF)](rochahigor05@gmail.com)&nbsp;
 [![Linkedin](https://img.shields.io/badge/-Linkedln-0A66C2?&logo=Linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/higor-silva18/)&nbsp;
 [![Whatsapp](https://img.shields.io/badge/-WhatsApp-25D366?&logo=WhatsApp&logoColor=FFFFFF)](https://api.whatsapp.com/send?1=pt_BR&phone=5511943147729)&nbsp;
 [![Instagram](https://img.shields.io/badge/-@hiigorrocha_-E4405F?&logo=Instagram&logoColor=FFFFFF)](https://instagram.com/hiigorrocha_)&nbsp;

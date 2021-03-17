@@ -2,9 +2,16 @@
 
 ## Hi, I'm Higor Rocha Fernandes da Silva
  
-### Sejam bem vindos ao meu GitHub! :wave:
-Atualmente no Departamento Technology and Opperations no [Itaú Unibanco](https://www.itau.com.br/) e Estudante de Sistemas de Informação na [Uninove](https://www.uninove.br/).
-Sou iniciante neste mundo Dev e espero poder ajudar e também receber ajuda de todos nessa comunidade!!
+### Welcome to my GitHub! :wave:
+I'm a beginner in this Developer world, I hope to help and also receive help from everyone in this community!!
+
+📌 20 years old;
+
+📌 I live in Mauá - São Paulo;
+
+📌 I work in the Technology and Operations department at [Itaú Unibanco](https://www.itau.com.br/);
+
+📌 Studying Information Technology at [Uninove](https://www.uninove.br/);
 
 ---
 
@@ -40,7 +47,7 @@ Sou iniciante neste mundo Dev e espero poder ajudar e também receber ajuda de t
 ---
 
 ### 📞 Let's Connect?
-Precisa de ajuda com algum assunto específico? Entre em contato comigo em um dos meios de contato abaixo:
+Need help? Get in touch with me in one of the contact ways below:
 
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?&logo=Gmail&logoColor=FFFFFF)](rochahigor05@gmail.com)&nbsp;
 [![Linkedin](https://img.shields.io/badge/-Linkedln-0A66C2?&logo=Linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/higor-silva18/)&nbsp;

@@ -3,7 +3,6 @@
 ## Hi, I'm Higor Rocha Fernandes da Silva
  
 ### Sejam bem vindos ao meu GitHub! :wave:
-
 Atualmente no Departamento Technology and Opperations no [Itaú Unibanco](https://www.itau.com.br/) e Estudante de Sistemas de Informação na [Uninove](https://www.uninove.br/).
 Sou iniciante neste mundo Dev e espero poder ajudar e também receber ajuda de todos nessa comunidade!!
 
@@ -43,15 +42,15 @@ Sou iniciante neste mundo Dev e espero poder ajudar e também receber ajuda de t
 
 ---
 
-### 📈  Analytics
+### 📈 Analytics
 ![Higor GitHub Stats](https://github-readme-stats.vercel.app/api?username=HigorRoc&show_icons=true&theme=radical)
 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HigorRoc&hide=scss&layout=compact&theme=radical)
 
 ---
 
-### :telephone_receiver: Let's Connect?
-Entre em contato comigo em um dos meios de contato abaixo:
+### 📞 Let's Connect?
+Precisa de ajuda com algum assunto específico? Entre em contato comigo em um dos meios de contato abaixo:
 
 [![Gmail](https://img.shields.io/badge/-rochahigor05@gmail.com-EA4335?&logo=Gmail&logoColor=FFFFFF)](rochahigor05@gmail.com)&nbsp;
 [![Linkedin](https://img.shields.io/badge/-Linkedln-0A66C2?&logo=Linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/higor-silva18/)&nbsp;

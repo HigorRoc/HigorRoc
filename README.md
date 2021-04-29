@@ -40,9 +40,14 @@ I'm a beginner in this Developer world, I hope to help and also receive help fro
 ---
 
 ### 📈 Analytics
-![Higor GitHub Stats](https://github-readme-stats.vercel.app/api?username=HigorRoc&show_icons=true&theme=radical)
-
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HigorRoc&hide=scss&layout=compact&theme=radical)
+<center>
+<table>
+    <tr>
+        <td><img width="480px" align="left" src="https://github-readme-stats.vercel.app/api?username=HigorRoc&show_icons=true&theme=radical" /></td>
+        <td><img width="410px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HigorRoc&hide=scss&layout=compact&theme=radical"/></td>
+    </tr>   
+</table>
+</center> 
 
 ---
 

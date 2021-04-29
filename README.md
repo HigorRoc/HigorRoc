@@ -1,4 +1,4 @@
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=HigorRoc&repo=HigorRoc&countColorcountColor)
+
 
 ## Hi, I'm Higor Rocha Fernandes da Silva
  

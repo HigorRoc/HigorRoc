@@ -1,6 +1,6 @@
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=HigorRoc&repo=HigorRoc&countColorcountColor)
 
-## Hi, I'm Higor Rocha Fernandes da Silva
+## < Hi, I'm Higor Rocha Fernandes da Silva />
  
 ### Welcome to my GitHub! 🤝
 I'm a beginner in this Developer world, I hope to help and also receive help from everyone in this community!!
@@ -52,7 +52,7 @@ I'm a beginner in this Developer world, I hope to help and also receive help fro
 ---
 
 ### 📞 Let's Connect?
-Need help? Get in touch with me in one of the contact ways below:
+Get in touch with me in one of the contact ways below:
 
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?&logo=Gmail&logoColor=FFFFFF)](rochahigor05@gmail.com)&nbsp;
 [![Linkedin](https://img.shields.io/badge/-Linkedln-0A66C2?&logo=Linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/higor-silva18/)&nbsp;

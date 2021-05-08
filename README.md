@@ -33,7 +33,7 @@ Sou iniciante neste mundo de desenvolvedores, espero ajudar e também receber aj
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?&logo=GitHub&logoColor=FFFFFF)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?&logo=git&logoColor=FFFFFF)&nbsp;
 ![VSCode](https://img.shields.io/badge/-VSCode-05122A?&logo=Visual%20Studio%20Code&logoColor=FFFFFF)&nbsp; 
-![Eclipse IDE](https://img.shields.io/badge/-NetBeans%20IDE-05122A?&logo=Apache%20NetBeans%20IDE&logoColor=FFFFFF)&nbsp; 
+![NetBeans IDE](https://img.shields.io/badge/-NetBeans%20IDE-05122A?&logo=Apache%20NetBeans%20IDE&logoColor=FFFFFF)&nbsp; 
 ![Eclipse IDE](https://img.shields.io/badge/-Eclipse%20IDE-05122A?&logo=Eclipse%20IDE&logoColor=FFFFFF)&nbsp; 
 ![Trello](https://img.shields.io/badge/-Trello-05122A?&logo=Trello&logoColor=FFFFFF)&nbsp; 
 

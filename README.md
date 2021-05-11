@@ -5,13 +5,13 @@
 ### Welcome to my GitHub! 🤝
 Sou iniciante neste mundo de desenvolvedores, espero ajudar e também receber ajuda de todos desta comunidade!!
 
-> 📌 20 anos;
+> :link: 20 anos;
 
-> 📌 Moro em Mauá - São Paulo;
+> :link: Moro em Mauá - São Paulo;
 
-> 📌 Departamento de Tecnologia e Operações em [Itaú Unibanco](https://www.itau.com.br/);
+> :link: Departamento de Tecnologia e Operações em [Itaú Unibanco](https://www.itau.com.br/);
 
-> 📌 Estudante de Tecnologia da Informação em [Uninove](https://www.uninove.br/);
+> :link: Estudante de Tecnologia da Informação em [Uninove](https://www.uninove.br/);
 
 ---
 

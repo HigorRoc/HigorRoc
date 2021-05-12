@@ -47,8 +47,8 @@
 
 <p align="left">
 <a href="https://github.com/GuillaumeFalourd">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=HigorRoc&show_icons=true&theme=radical"/> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HigorRoc&hide=scss&layout=compact&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HigorRoc&show_icons=true&theme=radical"/> 
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HigorRoc&hide=scss&layout=compact&theme=radical"/>
 </a>
 </p>
 

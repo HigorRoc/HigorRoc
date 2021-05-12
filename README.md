@@ -1,9 +1,9 @@
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=HigorRoc&repo=HigorRoc&countColorcountColor)
 
-## < Hi, I'm Higor Rocha Fernandes da Silva />
+<h1 align="center">Hi, I'm Higor Rocha</h1>
+<h3 align="center"> Welcome to my GitHub! 🤝 </h3>
  
-### Welcome to my GitHub! 🤝
-Sou iniciante neste mundo de desenvolvedores, espero ajudar e também receber ajuda de todos desta comunidade!!
+<p align="center"> Sou iniciante neste mundo de desenvolvedores, espero ajudar e também receber ajuda de todos desta comunidade!! </p>
 
 > :link: 20 anos;
 
@@ -15,7 +15,8 @@ Sou iniciante neste mundo de desenvolvedores, espero ajudar e também receber aj
 
 ---
 
-### 🛠 Languages & Tools
+<h3> 🛠 Languages & Tools </h3>
+
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?&logo=HTML5&logoColor=FFFFFF)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?&logo=CSS3&logoColor=FFFFFF)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?&logo=JavaScript&logoColor=FFFFFF)&nbsp;
@@ -39,19 +40,15 @@ Sou iniciante neste mundo de desenvolvedores, espero ajudar e também receber aj
 
 ---
 
-### 📈 Analytics
-<center>
-<table>
-    <tr>
-        <td><img width="480px" align="left" src="https://github-readme-stats.vercel.app/api?username=HigorRoc&show_icons=true&theme=radical" /></td>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HigorRoc&hide=scss&layout=compact&theme=radical"/></td>
-    </tr>   
-</table>
-</center> 
+<h3> 📈 Analytics </h3>
+<p align="center">
+        <img width="450px" align="left" src="https://github-readme-stats.vercel.app/api?username=HigorRoc&show_icons=true&theme=radical"/>
+        <img width="380" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HigorRoc&hide=scss&layout=compact&theme=radical"/>
+</p>
 
 ---
 
-### 📞 Let's Connect?
+<h3> 📞 Let's Connect? </h3>
 Entre em contato comigo através das fontes informadas abaixo:
 
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?&logo=Gmail&logoColor=FFFFFF)](rochahigor05@gmail.com)&nbsp;
@@ -59,5 +56,3 @@ Entre em contato comigo através das fontes informadas abaixo:
 [![Whatsapp](https://img.shields.io/badge/-WhatsApp-25D366?&logo=WhatsApp&logoColor=FFFFFF)](https://api.whatsapp.com/send?1=pt_BR&phone=5511943147729)&nbsp;
 [![Instagram](https://img.shields.io/badge/-Instagram_-E4405F?&logo=Instagram&logoColor=FFFFFF)](https://instagram.com/hiigorrocha_)&nbsp;
 [![Skype](https://img.shields.io/badge/-Skype-00AFF0?&logo=Skype&logoColor=FFFFFF)](https://join.skype.com/invite/AbNH8o8fxoUj)&nbsp;
-
----

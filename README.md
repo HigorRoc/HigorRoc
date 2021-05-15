@@ -25,9 +25,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?&logo=JavaScript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?&logo=Java)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?&logo=C)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?&logo=C++)&nbsp;
 
-> ![Oracle](https://img.shields.io/badge/-Oracle-05122A?&logo=Oracle)&nbsp;
+> ![Oracle](https://img.shields.io/badge/-Oracle-05122A?&logo=Oracle&logoColor=8B0000)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?&logo=MySQL)&nbsp;
 ![Tableau](https://img.shields.io/badge/-Tableau-05122A?&logo=Tableau)&nbsp;
 ![PowerBI](https://img.shields.io/badge/-Power%20BI-05122A?&logo=Power%20BI)&nbsp;
@@ -38,8 +37,8 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![VSCode](https://img.shields.io/badge/-VSCode-05122A?&logo=visual-studio-code&logoColor=007ACC)&nbsp; 
 ![NetBeans IDE](https://img.shields.io/badge/-NetBeans%20IDE-05122A?&logo=Apache%20NetBeans%20IDE)&nbsp; 
-![Eclipse IDE](https://img.shields.io/badge/-Eclipse%20IDE-05122A?&logo=Eclipse%20IDE)&nbsp; 
-![Trello](https://img.shields.io/badge/-Trello-05122A?&logo=Trello)&nbsp; 
+![Eclipse IDE](https://img.shields.io/badge/-Eclipse%20IDE-05122A?&logo=Eclipse%20IDE&logoColor=483D8B)&nbsp; 
+![Trello](https://img.shields.io/badge/-Trello-05122A?&logo=Trello&logoColor=007ACC)&nbsp; 
 
 ---
 

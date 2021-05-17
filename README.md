@@ -1,4 +1,4 @@
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=HigorRoc&repo=HigorRoc&countColorcountColor)
+<!-- ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=HigorRoc&repo=HigorRoc&countColorcountColor) -->
 
 <h1 align="center">
      Hi, I'm Higor Rocha 

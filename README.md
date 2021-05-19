@@ -44,7 +44,6 @@
           ![VSCode](https://img.shields.io/badge/-VSCode-05122A?&logo=visual-studio-code&logoColor=007ACC)&nbsp; 
           ![NetBeans IDE](https://img.shields.io/badge/-NetBeans%20IDE-05122A?&logo=Apache%20NetBeans%20IDE)&nbsp; 
           ![Eclipse IDE](https://img.shields.io/badge/-Eclipse%20IDE-05122A?&logo=Eclipse%20IDE&logoColor=483D8B)&nbsp; 
-          ![Trello](https://img.shields.io/badge/-Trello-05122A?&logo=Trello&logoColor=007ACC)&nbsp; 
 
 OBS: Todas as linguagens e ferramentas informadas são de breve conhecimento e pequenas experiências com projetos pessoais e atrelados com a universidade.
 

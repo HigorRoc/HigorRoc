@@ -1,4 +1,6 @@
 <!-- ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=HigorRoc&repo=HigorRoc&countColorcountColor) -->
+![](https://img.shields.io/github/followers/HigorRoc?logo=github)
+![](https://komarev.com/ghpvc/?username=HigorRoc&color=blue&style=flat)
 
 <h1 align="center">
      Hi, I'm Higor Rocha 
@@ -8,37 +10,43 @@
 <h3 align="center"> Welcome to my GitHub! 🤝 </h3> 
 <p align="center"> Sou iniciante neste mundo de desenvolvedores, espero ajudar e também receber ajuda de todos desta comunidade!! </p>
 
-> :link: 20 anos;
-
-> :link: Moro em Mauá - São Paulo;
-
-> :link: Departamento de Tecnologia e Operações em [Itaú Unibanco](https://www.itau.com.br/);
-
-> :link: Estudante de Tecnologia da Informação em [Uninove](https://www.uninove.br/);
+- :link: 20 anos;
+- :link: Residente em São Paulo - Brasil;
+- :link: Departamento de Tecnologia e Operações em [Itaú Unibanco](https://www.itau.com.br/);
+- :link: Estudante de Sistemas da Informação em [Uninove](https://www.uninove.br/);
 
 ---
 
 <h3> 🛠 Languages & Tools </h3>
 
-> ![HTML5](https://img.shields.io/badge/-HTML5-05122A?&logo=HTML5)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-05122A?&logo=css3&logoColor=007ACC)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?&logo=JavaScript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?&logo=Java)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?&logo=C)&nbsp;
+- `Frontend` ![HTML5](https://img.shields.io/badge/-HTML5-05122A?&logo=HTML5)&nbsp;
+             ![CSS3](https://img.shields.io/badge/-CSS3-05122A?&logo=css3&logoColor=007ACC)&nbsp;
+             ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?&logo=JavaScript)&nbsp;
+                     
+- `Backend` ![Java](https://img.shields.io/badge/-Java-05122A?&logo=Java)&nbsp;
+            ![Php](https://img.shields.io/badge/-PhP-05122A?&logo=Php)
+            ![C](https://img.shields.io/badge/-C-05122A?&logo=C)&nbsp;
+  
+- `Mobile` ![Dart](https://img.shields.io/badge/-Dart-05122A?&logo=Dart&logoColor=007ACC)
+           ![Flutter](https://img.shields.io/badge/-Flutter-05122A?&logo=Flutter&logoColor=00BFFF)
 
-> ![Oracle](https://img.shields.io/badge/-Oracle-05122A?&logo=Oracle&logoColor=8B0000)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?&logo=MySQL)&nbsp;
-![Tableau](https://img.shields.io/badge/-Tableau-05122A?&logo=Tableau)&nbsp;
-![PowerBI](https://img.shields.io/badge/-Power%20BI-05122A?&logo=Power%20BI)&nbsp;
 
-> ![Windows](https://img.shields.io/badge/-Windows-05122A?&logo=Windows&logoColor=007ACC)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?&logo=Linux)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?&logo=GitHub)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![VSCode](https://img.shields.io/badge/-VSCode-05122A?&logo=visual-studio-code&logoColor=007ACC)&nbsp; 
-![NetBeans IDE](https://img.shields.io/badge/-NetBeans%20IDE-05122A?&logo=Apache%20NetBeans%20IDE)&nbsp; 
-![Eclipse IDE](https://img.shields.io/badge/-Eclipse%20IDE-05122A?&logo=Eclipse%20IDE&logoColor=483D8B)&nbsp; 
-![Trello](https://img.shields.io/badge/-Trello-05122A?&logo=Trello&logoColor=007ACC)&nbsp; 
+- `Database` ![Oracle](https://img.shields.io/badge/-Oracle-05122A?&logo=Oracle&logoColor=8B0000)&nbsp;
+             ![MySQL](https://img.shields.io/badge/-MySQL-05122A?&logo=MySQL)&nbsp;
+             
+- `Business Intelligence` ![Tableau](https://img.shields.io/badge/-Tableau-05122A?&logo=Tableau)&nbsp;
+                          ![PowerBI](https://img.shields.io/badge/-Power%20BI-05122A?&logo=Power%20BI)&nbsp;
+
+- `Tools` ![Windows](https://img.shields.io/badge/-Windows-05122A?&logo=Windows&logoColor=007ACC)&nbsp;
+          ![Linux](https://img.shields.io/badge/-Linux-05122A?&logo=Linux)&nbsp;
+          ![GitHub](https://img.shields.io/badge/-GitHub-05122A?&logo=GitHub)&nbsp;
+          ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+          ![VSCode](https://img.shields.io/badge/-VSCode-05122A?&logo=visual-studio-code&logoColor=007ACC)&nbsp; 
+          ![NetBeans IDE](https://img.shields.io/badge/-NetBeans%20IDE-05122A?&logo=Apache%20NetBeans%20IDE)&nbsp; 
+          ![Eclipse IDE](https://img.shields.io/badge/-Eclipse%20IDE-05122A?&logo=Eclipse%20IDE&logoColor=483D8B)&nbsp; 
+          ![Trello](https://img.shields.io/badge/-Trello-05122A?&logo=Trello&logoColor=007ACC)&nbsp; 
+
+OBS: Todas as linguagens e ferramentas informadas são de breve conhecimento e pequenas experiências com projetos pessoais e atrelados com a universidade.
 
 ---
 

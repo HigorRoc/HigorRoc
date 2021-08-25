@@ -69,6 +69,6 @@ OBS: Todas as linguagens e ferramentas informadas são de breve conhecimento e p
      <a href="rochahigor05@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?&logo=Gmail&logoColor=FFFFFF"/></a>
      <a href="https://www.linkedin.com/in/higor-silva18/"><img src="https://img.shields.io/badge/-Linkedln-0A66C2?&logo=Linkedin&logoColor=FFFFFF"/></a>
      <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5511943147729"><img src="https://img.shields.io/badge/-WhatsApp-25D366?&logo=WhatsApp&logoColor=FFFFFF"/></a>
-     <a href="https://instagram.com/hiigorrocha_"><img src="https://img.shields.io/badge/-Instagram_-E4405F?&logo=Instagram&logoColor=FFFFFF"/></a>
+     <a href="https://instagram.com/hiigorrocha"><img src="https://img.shields.io/badge/-Instagram_-E4405F?&logo=Instagram&logoColor=FFFFFF"/></a>
      <a href="https://discord.com/channels/@Higorovski#4434"><img src="https://img.shields.io/badge/-Discord-483D8B?&logo=Discord&logoColor=FFFFFF"/></a>
 </p>

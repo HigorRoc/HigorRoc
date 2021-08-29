@@ -52,7 +52,7 @@ OBS: Todas as linguagens e ferramentas informadas são de breve conhecimento e p
 <h3> 📈 Analytics </h3>
 
 <p align="left">
-<a href="https://github.com/GuillaumeFalourd">
+<a href="https://github.com/HigorRoc">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HigorRoc&show_icons=true&theme=radical"/> 
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HigorRoc&hide=scss&layout=compact&theme=radical"/>
 </a>

@@ -26,6 +26,7 @@
 - `Backend` ![Java](https://img.shields.io/badge/-Java-05122A?&logo=Java)&nbsp;
             ![Php](https://img.shields.io/badge/-PhP-05122A?&logo=Php)
             ![C](https://img.shields.io/badge/-C-05122A?&logo=C)&nbsp;
+            ![Python](https://img.shields.io/badge/-Python-05122A?&logo=Python)&nbsp;
   
 - `Mobile` ![Dart](https://img.shields.io/badge/-Dart-05122A?&logo=Dart&logoColor=007ACC)
            ![Flutter](https://img.shields.io/badge/-Flutter-05122A?&logo=Flutter&logoColor=00BFFF)
@@ -43,7 +44,8 @@
           ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
           ![VSCode](https://img.shields.io/badge/-VSCode-05122A?&logo=visual-studio-code&logoColor=007ACC)&nbsp; 
           ![NetBeans IDE](https://img.shields.io/badge/-NetBeans%20IDE-05122A?&logo=Apache%20NetBeans%20IDE)&nbsp; 
-          ![Eclipse IDE](https://img.shields.io/badge/-Eclipse%20IDE-05122A?&logo=Eclipse%20IDE&logoColor=483D8B)&nbsp; 
+          ![Eclipse IDE](https://img.shields.io/badge/-Eclipse%20IDE-05122A?&logo=Eclipse%20IDE&logoColor=483D8B)&nbsp;
+          ![Colab](https://img.shields.io/badge/-Google%20Colab-05122A?&logo=Google%20Colab&logoColor=FF8C00)&nbsp; 
 
 OBS: Todas as linguagens e ferramentas informadas são de breve conhecimento e pequenas experiências com projetos pessoais e atrelados com a universidade.
 

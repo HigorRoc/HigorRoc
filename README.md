@@ -10,7 +10,7 @@
 <h3 align="center"> Welcome to my GitHub! 🤝 </h3> 
 <p align="center"> Sou iniciante neste mundo de desenvolvedores, espero ajudar e também receber ajuda de todos desta comunidade!! </p>
 
-- :link: 20 anos;
+- :link: 22 anos;
 - :link: Residente em São Paulo - Brasil;
 - :link: Departamento de Tecnologia e Operações em [Itaú Unibanco](https://www.itau.com.br/);
 - :link: Estudante de Sistemas da Informação em [Uninove](https://www.uninove.br/);

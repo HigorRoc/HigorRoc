@@ -46,9 +46,7 @@
           ![NetBeans IDE](https://img.shields.io/badge/-NetBeans%20IDE-05122A?&logo=Apache%20NetBeans%20IDE)&nbsp; 
           ![Eclipse IDE](https://img.shields.io/badge/-Eclipse%20IDE-05122A?&logo=Eclipse%20IDE&logoColor=483D8B)&nbsp;
           ![Colab](https://img.shields.io/badge/-Google%20Colab-05122A?&logo=Google%20Colab&logoColor=FF8C00)&nbsp; 
-
-OBS: Todas as linguagens e ferramentas informadas são de breve conhecimento e pequenas experiências com projetos pessoais e atrelados com a universidade.
-
+          
 ---
 
 <h3> 📈 Analytics </h3>
@@ -61,8 +59,6 @@ OBS: Todas as linguagens e ferramentas informadas são de breve conhecimento e p
 <div>
      
  ![Snake animation](https://github.com/letpires/letpires/blob/output/github-contribution-grid-snake.svg)
-
-<!-- ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=HigorRoc) -->
 
 ---
 

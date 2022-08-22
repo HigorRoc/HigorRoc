@@ -11,9 +11,9 @@
 <p align="center"> Sou iniciante neste mundo de desenvolvedores, espero ajudar e também receber ajuda de todos desta comunidade!! </p>
 
 - :link: 22 anos;
-- :link: Residente em São Paulo - Brasil;
-- :link: Departamento de Tecnologia e Operações em [Itaú Unibanco](https://www.itau.com.br/);
-- :link: Estudante de Sistemas da Informação em [Uninove](https://www.uninove.br/);
+- :link: São Paulo - Brasil;
+- :link: Engenharia de Processos | [Itaú Unibanco](https://www.itau.com.br/);
+- :link: Sistemas da Informação | [Uninove](https://www.uninove.br/);
 
 ---
 
